@@ -1,0 +1,14 @@
+# app-ads.txt
+# App: Oyun Hesablayici (Okey 101 / Sade Okey / Domino 101 / Domino Telefon score keeper)
+# Android package: com.vusal.okey101calculator
+# Developer: Vusal Maharramov
+#
+# Spec: IAB Tech Lab "Authorized Sellers for Apps" (app-ads.txt) v1.0
+# Field order: <advertising system domain>, <publisher account id>, <DIRECT|RESELLER>, <certification authority id>
+# Certification authority id f08c47fec0942fa0 is Google's TAG ID, per
+# https://developers.google.com/admob/android/app-ads
+#
+# This file MUST be served from the ROOT of the domain entered in the
+# Google Play store listing "Website" field, e.g. https://example.com/app-ads.txt
+
+google.com, pub-5678132617441806, DIRECT, f08c47fec0942fa0
