@@ -1,0 +1,15 @@
+{
+  "_comment": "Reklam davranisi. Bu fayli redakte edib push etmek kifayetdir - build de, eas update de lazim deyil. Tetbiq acilanda oxuyur ve yaddasda saxlayir.",
+  "_fields": {
+    "interstitialMinIntervalMs": "Iki tam ekran reklam arasindaki en az fasile (millisaniye). Icazeli araliq: 30000-1800000.",
+    "interstitialEveryNRounds": "Nece raunddan bir raund sonu reklami cixsin. 0 = ummiyyetle cixmasin. Standart 5.",
+    "rewardedEnabled": "Ana ekranda 'Reklama bax - reklamsiz vaxt qazan' duymesi gorunsunmu.",
+    "rewardedAdFreeHours": "Bir rewarded baxisin verdiyi reklamsiz saat. Icazeli araliq: 0.5-72.",
+    "bannerEnabled": "Banner umumiyyetle gosterilsinmi."
+  },
+  "interstitialMinIntervalMs": 180000,
+  "interstitialEveryNRounds": 5,
+  "rewardedEnabled": true,
+  "rewardedAdFreeHours": 2,
+  "bannerEnabled": true
+}
