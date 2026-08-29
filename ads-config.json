@@ -8,8 +8,8 @@
     "bannerEnabled": "Banner umumiyyetle gosterilsinmi."
   },
   "interstitialMinIntervalMs": 180000,
-  "interstitialEveryNRounds": 5,
+  "interstitialEveryNRounds": 3,
   "rewardedEnabled": true,
-  "rewardedAdFreeHours": 2,
+  "rewardedAdFreeHours": 6,
   "bannerEnabled": true
 }
